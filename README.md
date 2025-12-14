@@ -168,7 +168,7 @@ p.note { display: none; }
 
 <div class="media-container">
 
-<h2><span class="yellow">13,Dec,2025 土曜開催市場はメーチャンの街から距離があるので、お値段は格安</span></h2>
+<h2><span class="yellow">13,Dec,2025 土曜開催市場、敷地からはみ出した屋台が道路側にも並びます<br>メーチャンの街から距離があるので、お値段は格安</span></h2>
 <a href="20251214_001.JPG" target="_blank"><img src="20251214_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251214_002.JPG" target="_blank"><img src="20251214_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251214_003.JPG" target="_blank"><img src="20251214_003.JPG" alt="サンプル画像" class="responsive-media"></a>
@@ -176,19 +176,19 @@ p.note { display: none; }
 <h2><span class="yellow">14時過ぎの到着で、まだ準備中の屋台もチラホラ</span></h2>
 <a href="20251214_004.JPG" target="_blank"><img src="20251214_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">サンダル屋さんも街の市場の3倍規模</span></h2>
+<h2><span class="yellow">サンダル屋さんは街の市場の3倍規模</span></h2>
 <a href="20251214_005.JPG" target="_blank"><img src="20251214_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ITエリアにはまだお客さんは来ていません</span></h2>
 <a href="20251214_006.JPG" target="_blank"><img src="20251214_006.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251214_007.JPG" target="_blank"><img src="20251214_007.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">市場の背景は国境の連なる山々</span></h2>
+<h2><span class="yellow">市場の背景は国境に連なる山々</span></h2>
 <a href="20251214_008.JPG" target="_blank"><img src="20251214_008.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251214_009.JPG" target="_blank"><img src="20251214_009.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251214_010.JPG" target="_blank"><img src="20251214_010.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">キロ10バーツのみかんはここだけの価格</span></h2>
+<h2><span class="yellow">キロ10バーツのみかんはここだけのお値段、相場は20〜30バーツ</span></h2>
 <a href="20251214_011.JPG" target="_blank"><img src="20251214_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">3Kgも購入</span></h2>
@@ -258,7 +258,7 @@ p.note { display: none; }
 <h2><span class="yellow">テニスコートも盛況です</span></h2>
 <a href="20251214_034.JPG" target="_blank"><img src="20251214_034.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">市場で買ったフライドチキンを齧ります</span></h2>
+<h2><span class="yellow">市場で買ったフライドチキンをかじります</span></h2>
 <a href="20251214_035.JPG" target="_blank"><img src="20251214_035.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">帰る時間には、本校舎にも西陽が刺してました</span></h2>
